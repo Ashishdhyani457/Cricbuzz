@@ -87,4 +87,3 @@ async function main() {
     browser.close();
 }
 main();
-//Ashish
